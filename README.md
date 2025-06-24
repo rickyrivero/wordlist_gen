@@ -11,7 +11,7 @@ By combining base words (such as names, hobbies, or locations) with common patte
 
 - 🔧 Customizable – Input your own words, years, numbers, and symbols
 
--⚡ Efficient – Generates thousands of patterns quickly
+- ⚡ Efficient – Generates thousands of patterns quickly
 
 - 🧪 Ready for cracking – Output file is compatible with tools like Hashcat or John the Ripper
 
